@@ -1,0 +1,1 @@
+url = 'https://yobit.net/api/3/info'
